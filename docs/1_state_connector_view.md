@@ -402,4 +402,4 @@ createApp() {
 
 最后我想说，虽然入门学习成本很高。但当学会了熟练了之后，你的开发效率不会比原来低，因为插件已经帮你生成必须的模板，你只需要重写状态、事件、视图 和业务逻辑就可以了。
 
-[源码](https://github.com/wilfordw/fish_redux_todo_sample) -- tag 从零开始 Fish Redux (一) —— 数据传递与展示
+[源码](https://github.com/wilfordw/fish_redux_todo_sample) -- tag sample_0
